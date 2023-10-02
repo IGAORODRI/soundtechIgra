@@ -21,7 +21,7 @@
 
 .cabecalho {
   font-size: 1.5rem;
-  background: linear-gradient(to bottom, #eea3a3 0%,#490606 100%);
+  background: linear-gradient(to bottom, #aaa 0%,#490606 100%);
   padding:10px 0px;
   margin-top:10px;
   text-align:center;
@@ -36,7 +36,7 @@
 
 
 .teclado {
-  background: linear-gradient(to bottom, #eea3a3 0%,#490606 100%);
+  background: linear-gradient(to bottom, #aaa 0%,#490606 100%);
   align-items: center;
   vertical-align: baseline-middle;
   margin-top:5px;
