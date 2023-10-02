@@ -1,2 +1,2 @@
-# tecnotuchtuch
+# tecnoSound
 Estudo de JavaScript.
