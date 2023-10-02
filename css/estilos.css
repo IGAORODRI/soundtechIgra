@@ -126,7 +126,7 @@
 }
 
 .menu a {
-  background: linear-gradient(to bottom, #eea3a3 0%,#490606 100%);
+  background: linear-gradient(to bottom, #aaa 0%,#490606 100%);
   padding: 3px;
   margin-top: 3px;
   display: inline-block;
