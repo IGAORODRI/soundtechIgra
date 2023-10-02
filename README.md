@@ -1,1 +1,2 @@
-# soundtechIgra
+# tecnotuchtuch
+Estudo de JavaScript.
